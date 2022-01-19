@@ -1,7 +1,7 @@
  항해를 다녀온 후 
  =======
  
- <img src = "https://user-images.githubusercontent.com/80088918/150147270-39ed844f-d94f-4d18-8b5b-bdfeffb8a405.png" width=500px;>
+ <img src = "https://user-images.githubusercontent.com/80088918/150148032-5e143d6b-2507-408e-9015-ba7f07219d7d.png" width=500px;>
 
 
  
